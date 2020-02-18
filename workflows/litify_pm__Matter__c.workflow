@@ -14,6 +14,9 @@
         <fullName>New_Matter_Email_Alert</fullName>
         <description>New Matter Email Alert</description>
         <protected>false</protected>
+        <recipients>
+            <type>owner</type>
+        </recipients>
         <senderType>DefaultWorkflowUser</senderType>
         <template>litify_pm__Litify_Support/New_Matter_Notification</template>
     </alerts>
