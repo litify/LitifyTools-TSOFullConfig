@@ -306,6 +306,12 @@
         <name>WorkflowAlert</name>
     </types>
     <types>
+    <members>Account.Set_Primary_Phone_Number</members>
+    <members>litify_pm__Intake__c.Change_Record_Type_from_New_Intake</members>
+    <members>litify_pm__Intake__c.Set_Intake_Status_to_Working</members>
+    <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
         <members>Account.Update Phone</members>
         <members>User.User%3A new System Administrator created</members>
         <members>litify_pm__Intake__c.Send Turn Down Email</members>
