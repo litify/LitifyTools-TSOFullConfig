@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldUpdates>
+        <fullName>Set_Primary_Phone_Number</fullName>
+        <description>If the mobile phone field is filled in on the Party, set that as Phone. If that field is blank  and the home phone is filled in, set that as Phone.</description>
+        <field>Phone</field>
+        <formula>IF( ISBLANK(  litify_pm__Phone_Mobile__c ),
+     litify_pm__Phone_Home__c,
+     litify_pm__Phone_Mobile__c )</formula>
+        <name>Set Primary Phone Number</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+    </fieldUpdates>
     <rules>
         <fullName>Update Phone</fullName>
         <actions>
