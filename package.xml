@@ -67,6 +67,10 @@
         <name>EmailTemplate</name>
     </types>
     <types>
+    <members>Litify_Complete_UtilityBar</members>
+    <name>FlexiPage</name>
+    </types>
+    <types>
         <members>Clear_First_Last_Names_for_Business_Individuals</members>
         <members>Copy_Matter_Stage_Name_to_Default_Matter_Task</members>
         <members>Copy_Party_Name_to_Roles</members>
