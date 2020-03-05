@@ -20,6 +20,10 @@
         <name>ContentAsset</name>
     </types>
     <types>
+    <members>Litify_Complete_Custom</members>
+    <name>CustomApplication</name>
+    </types>
+    <types>
         <members>litify_pm__Default_Matter_Task__c.Concatfordataload__c</members>
         <members>litify_pm__Default_Matter_Task__c.OldSFID__c</members>
         <members>litify_pm__Default_Matter_Task__c.litify_tso_Matter_Stage_Name__c</members>
@@ -86,7 +90,6 @@
     <types>
         <members>Account.All_Litify_Businesses</members>
         <members>Account.All_Litify_Individuals</members>
-        <members>Lead.TodaysLeads</members>
         <members>litify_pm__Case_Qualify_Criteria__c.All</members>
         <members>litify_pm__Intake__c.All_Intakes_By_Age</members>
         <members>litify_pm__Intake__c.All_Intakes_This_Week</members>
@@ -289,7 +292,6 @@
         <members>litify_pm__Intake__c.Send_Turned_Down_Email_to_Potential_Client</members>
         <members>litify_pm__Intake__c.Send_Welcome_Email_to_Client</members>
         <members>litify_pm__Intake__c.litify_tso_Questionnaire_Output_Email_Alert</members>
-        <members>litify_pm__Log__c.System_log_created_email_alert</members>
         <members>litify_pm__Matter__c.Matter_Owner_Email_Alert</members>
         <members>litify_pm__Matter__c.New_Matter_Email_Alert</members>
         <name>WorkflowAlert</name>
@@ -306,7 +308,6 @@
         <members>litify_pm__Intake__c.Send Turn Down Email</members>
         <members>litify_pm__Intake__c.Send Welcome Email</members>
         <members>litify_pm__Intake__c.Set Intake Status to %22Working%22</members>
-        <members>litify_pm__Log__c.System Log Alert Email Notification</members>
         <members>litify_pm__Matter__c.Matter Owner is Changed</members>
         <name>WorkflowRule</name>
     </types>
