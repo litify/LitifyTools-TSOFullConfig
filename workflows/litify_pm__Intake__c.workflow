@@ -44,6 +44,26 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/litify_tso_Questionnaire_Output_Email</template>
     </alerts>
+    <fieldUpdates>
+        <fullName>Change_Record_Type_from_New_Intake</fullName>
+        <description>Set Record Type to Active Intake</description>
+        <field>RecordTypeId</field>
+        <lookupValue>litify_pm__Active_Intake</lookupValue>
+        <lookupValueType>RecordType</lookupValueType>
+        <name>Change Record Type from New Intake</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>LookupValue</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Set_Intake_Status_to_Working</fullName>
+        <field>litify_pm__Status__c</field>
+        <literalValue>Working</literalValue>
+        <name>Set Intake Status to &quot;Working&quot;</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
     <rules>
         <fullName>Send Turn Down Email</fullName>
         <actions>
