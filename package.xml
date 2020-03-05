@@ -63,17 +63,6 @@
         <name>EmailTemplate</name>
     </types>
     <types>
-        <members>Litify_Admin_Home_Page</members>
-        <members>Litify_Attorney_Home_Page</members>
-        <members>Litify_Case_Manager_Home_Page</members>
-        <members>Litify_Complete_UtilityBar</members>
-        <members>Litify_Intake_Agent_Home_Page</members>
-        <members>Litify_Intake_Manager_Home_Page</members>
-        <members>Litify_Management_Home_Page</members>
-        <members>Litify_Partner_Home_Page</members>
-        <name>FlexiPage</name>
-    </types>
-    <types>
         <members>Clear_First_Last_Names_for_Business_Individuals</members>
         <members>Copy_Matter_Stage_Name_to_Default_Matter_Task</members>
         <members>Copy_Party_Name_to_Roles</members>
