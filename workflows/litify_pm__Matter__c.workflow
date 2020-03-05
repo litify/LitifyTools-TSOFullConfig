@@ -15,7 +15,8 @@
         <description>New Matter Email Alert</description>
         <protected>false</protected>
         <recipients>
-            <type>owner</type>
+            <field>litify_pm__Principal_Attorney__c</field>
+            <type>userLookup</type>
         </recipients>
         <senderType>DefaultWorkflowUser</senderType>
         <template>litify_pm__Litify_Support/New_Matter_Notification</template>
