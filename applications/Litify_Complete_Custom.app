@@ -95,5 +95,5 @@
     <tabs>standard-Dashboard</tabs>
     <tabs>litify_pm__Support</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>Litify_Complete_UtilityBar</utilityBar>
+    <utilityBar>Litify_Matters_UtilityBar1</utilityBar>
 </CustomApplication>
