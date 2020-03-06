@@ -6,11 +6,11 @@
         <valueSet>
             <valueSetDefinition>
                 <sorted>false</sorted>
-                <value>
+                <StandardValueSet>
                     <fullName>Outbound Email</fullName>
                     <default>false</default>
                     <label>Outbound Email</label>
-                </value>
+                </StandardValueSet>
             </valueSetDefinition>
         </valueSet>
     </fields>
