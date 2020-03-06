@@ -18,7 +18,7 @@
         <formFactor>Large</formFactor>
         <pageOrSobjectType>standard-home</pageOrSobjectType>
         <type>Flexipage</type>
-        <profile>Litify Paralegal/Case Manager</profile>
+        <profile>Litify Paralegal Case Manager</profile>
     </profileActionOverrides>
     <profileActionOverrides>
         <actionName>Tab</actionName>
