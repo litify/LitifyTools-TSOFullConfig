@@ -45,10 +45,6 @@
         <name>CustomField</name>
     </types>
     <types>
-    <members>Task</members>
-    <name>CustomObject</name>
-    </types>
-    <types>
         <members>CustomHelpMenuSection</members>
         <name>CustomHelpMenuSection</name>
     </types>
