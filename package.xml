@@ -52,6 +52,24 @@
         <members>CustomLabels</members>
         <name>CustomLabels</name>
     </types>
+        <types>
+        <members>litify_pm__Litify/CxeSYJpbpwLbWCLcryaVcDRzbVOGMu</members>
+        <members>litify_pm__Litify/FgTLrILZZhwIvkQsCSAyGzJgpbBHpg</members>
+        <members>litify_pm__Litify/LJfWWQmNimgyAmfbRajTowTGcQaonF</members>
+        <members>litify_pm__Litify/UguBqhwhJYuTqoCshGPRBouiMveZzY</members>
+        <members>litify_pm__Litify/WFRRFUwduCZEmlPerdwxYweNxmzrqn</members>
+        <members>litify_pm__Litify/ZFrLYiJjRoxnwYqiWCbdoSyADkDsfe</members>
+        <members>litify_pm__Litify/bARdEpvirPIMyqpiZneHnUGTMnQYBy</members>
+        <members>litify_pm__Litify/bARdEpvirPIMyqpiZneHnUGTMnQYBy1</members>
+        <members>litify_pm__Litify/blDuOQdKLTngAqLVBqsZjXAQmMgTNH</members>
+        <members>litify_pm__Litify/hfLDNGksPrzsiTNCbVlXLJkeMrLWOD</members>
+        <members>litify_pm__Litify/jGzjolHIKcYUfWEDFOQLsXTGeMhEtX</members>
+        <members>litify_pm__Litify/jSeoUwVfxgNiqemVLiqqLYVHbHGsuL</members>
+        <members>litify_pm__Litify/jhltRtIJtOLakVVRlODCZqqWWGkViI</members>
+        <members>litify_pm__Litify/kYbNdyoZvJgxDZUonMDSTXdZipWcSi</members>
+        <members>litify_pm__Litify/xbwyUzvLyAyuCgWKiacQsMIVZuukcv</members>
+        <name>Dashboard</name>
+    </types>
     <types>
         <members>litify_pm__Litify_Logos/Litify_Logo.png</members>
         <name>Document</name>
@@ -290,6 +308,22 @@
         <members>litify_pm__Litify_Matters/SOL_Dates_on_Active_Matters11</members>
         <members>litify_pm__Litify_Matters/SOL_and_Close_Dates_on_Closed_Matters</members>
         <members>litify_pm__Litify_Matters/Unpaid_Expenses_on_All_Open_Matters_D7M</members>
+        <members>litify_pm__Litify_Referrals/Incoming_Referrals_by_Firm_Past_7_Days</members>
+        <members>litify_pm__Litify_Referrals/Incoming_Referrals_by_Firm_Past_7_Days1</members>
+        <members>litify_pm__Litify_Referrals/Incoming_Referrals_by_Firm_Past_7_Days11</members>
+        <members>litify_pm__Litify_Referrals/Incoming_Referrals_by_Firm_Past_7_Days111</members>
+        <members>litify_pm__Litify_Referrals/Incoming_Referrals_by_Firm_Past_7_Days1111</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Handling_Firm</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type1</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type11</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type111</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type1111</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type11111</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type111111</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type1111111</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type11111111</members>
+        <members>litify_pm__Litify_Referrals/Outgoing_Referrals_by_Month_Case_Type111111111</members>
         <name>Report</name>
     </types>
     <types>
